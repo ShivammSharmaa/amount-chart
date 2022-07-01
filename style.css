@@ -1,0 +1,38 @@
+body {
+  background-color: hsl(27, 66%, 92%);
+}
+.container {
+  justify-content: center;
+  align-items: center;
+  margin: 10% 35%;
+}
+.header {
+  display: flex;
+  background-color: hsl(10, 79%, 65%);
+  padding: 20px;
+  justify-content: space-between;
+  border-radius: 13px;
+}
+.headerText {
+  color: white;
+}
+.balance {
+  font-size: xx-large;
+}
+.hero {
+  border-radius: 13px;
+  padding: 20px;
+  background-color: white;
+  font-weight: 700;
+  font-size: x-large;
+  font-family: "Courier New", Courier, monospace;
+  margin-top: 10px;
+}
+.small {
+  font-size: medium;
+  font-weight: 300;
+}
+.heroFotter {
+  display: flex;
+  justify-content: space-between;
+}
